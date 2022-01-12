@@ -8,3 +8,4 @@ this is my journal entry
 - Taking a break until tomorrow afternoon to complete this assignment.
 
 ## January 12th 2022
+Last night I didn't feel comfortbale with completing this assignment early due to some uncertainty. However, today with Tony's excellent teaching, I am more comfortable with what I am doing.
