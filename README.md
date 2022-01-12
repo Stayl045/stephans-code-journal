@@ -6,3 +6,5 @@ this is my journal entry
 -Finally have settled on a repo that works for me.
 -Had to research some html basics to create an unordered list.
 -Taking a break until tomorrow afternoon to complete this assignment.
+
+## January 12th 2022
