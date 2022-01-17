@@ -39,4 +39,6 @@ New plan (Taken from the help page):
 2. Once in “GitHub” Repo, copy “SSH key”
 3. On terminal root directory, utilize `$ git push “”.
 
+test change
+
 
