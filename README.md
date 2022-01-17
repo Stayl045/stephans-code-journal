@@ -26,7 +26,7 @@ Goal: Push 1st README.md to GitHub without online help for Assessment #1. My ult
 4. Follow instructions laid out for this assignment.
 5. Use `git init` command without any hassle.
 6. Create a blank repo on “GitHub”.
-7. Don’t check create initialize contents such as “README.md"/
+7. Don’t check create initialize contents such as “README.md".
 8. Click“Create” repository. 
 
 Plans failed…
@@ -35,8 +35,8 @@ I was really nervous when attempting to push my Journal to GitHub having some is
 
 New plan (Taken from the help page):
 
-Forgot that I should’ve used `$ git add .` and then git commit -p “Initial Commit” before pushing.
-Once in “GitHub” Repo, copy “SSH key”
-On terminal root directory, utilize `$ git push “”.
+1. Forgot that I should’ve used `$ git add .` and then git commit -p “Initial Commit” before pushing.
+2. Once in “GitHub” Repo, copy “SSH key”
+3. On terminal root directory, utilize `$ git push “”.
 
 
