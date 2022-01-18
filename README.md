@@ -41,8 +41,13 @@ New plan (Taken from the help page):
 
 ### January 18th ###
 Plan: to finished assignment #1: UX  breakdown by the end of the day.
--	first, I must learn some of the basics of Figma.
-  - Made a good outline for the assignment if I don't say so myself.
+-	First, I must learn some of the basics of Figma.
+  - I feel like I am learning the basic tools such as:
+    - toying with my frames to look like cellphones.
+    - creating some space between each frame so it's more pleasing to the eye.
+    - utilized soft colour pallette so it's easy to read and follow.
+    - tried to play with Prototype, but quickly called that quits.
+  - All in all, I ,ade a good outline for the assignment if I don't say so myself.
   - I had some trouble adding icons such as “Search Icon”. I think I have to attribute then and components to my figma.
   - I gave up and didn’t bother searching for outside icons, so I hand drew the icons (which took some time).
 - Had fun figuring out figma and successfully created a wireflow without much of an issue.
