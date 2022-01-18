@@ -35,8 +35,18 @@ I was really nervous when attempting to push my Journal to GitHub having some is
 
 New plan (Taken from the help page):
 
-1. Forgot that I should’ve used `$ git add .` and then git commit -p “Initial Commit” before pushing.
-2. Once in “GitHub” Repo, copy “SSH key”
-3. On terminal root directory, utilize `$ git push “”.
+1. Follow the steps provided on the website.
+2. I was successfully able to push to my repo.
+3. I will finish the rest tomorrow.
 
-test
+### January 18th ###
+Plan: to finished assignment #1: UX  breakdown by the end of the day.
+-	first, I must learn some of the basics of Figma.
+  - Made a good outline for the assignment if I don't say so myself.
+  - I had some trouble adding icons such as “Search Icon”. I think I have to attribute then and components to my figma.
+  - I gave up and didn’t bother searching for outside icons, so I hand drew the icons (which took some time).
+- Had fun figuring out figma and successfully created a wireflow without much of an issue.
+  - Initially I struggled to figureout how to add images to MD to push to Git hub. However this link helped:
+    - [MD Help](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- I successfully completed my plan and finished my assignment #1 of design with the help of the website to add my wireframe.
+
