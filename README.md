@@ -39,7 +39,7 @@ New plan (Taken from the help page):
 2. I was successfully able to push to my repo.
 3. I will finish the rest tomorrow.
 
-### January 18th ###
+**January 18th**
 Plan: to finished assignment #1: UX  breakdown by the end of the day.
 -	First, I must learn some of the basics of Figma.
   - I feel like I am learning the basic tools such as:
