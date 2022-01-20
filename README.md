@@ -55,6 +55,8 @@ Plan: to finished assignment #1: UX  breakdown by the end of the day.
     - [MD Help](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - I successfully completed my plan and finished my assignment #1 of design with the help of the website to add my wireframe.
 
+---
+
 ## January 20th  **CPNT-Code-Journal #1** ##
 No plan for today really… Just trying to absorb everything that Ash taught. A lot of different codes to memorize, page layout, and overall structuring. I think I will get there if I keep practicing the content.
 
@@ -68,5 +70,11 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 -	`Article`: Stand-alone. This is a good way of knowing where to plave an `Article`.
 -	Section: Larger content.
 -	Shortcuts to create a list: `<li> Li*3`.
+
+**Future Goals:**
+- Experiment with CSS styling more. For example, learn how to add differet images in a box and organize them that is pleasing to look at.
+- memorize the layout of HTML, its codes, and how they interact with CSS. 
+- Play around more with CodePen on some spare time of mine. 
+- if i'm feeling bold. Maybe trying add some JS into my codepens.
 
 
