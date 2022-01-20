@@ -55,18 +55,18 @@ Plan: to finished assignment #1: UX  breakdown by the end of the day.
     - [MD Help](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - I successfully completed my plan and finished my assignment #1 of design with the help of the website to add my wireframe.
 
-## January 29th ## **CPNT-Code-Journal #1**
+## January 20th  **CPNT-Code-Journal #1** ##
 No plan for today really… Just trying to absorb everything that Ash taught. A lot of different codes to memorize, page layout, and overall structuring. I think I will get there if I keep practicing the content.
 
 **Some key notes that Ash said:**
--	`CMD-shift-C`to open up Developer Tools
--	`CMD-OPT- I` to highlight in the browser to specific codes
+-	`CMD-shift-C`to open up Developer Tools.
+-	`CMD-OPT-I` to highlight in the browser to specific codes.
 
 Another cool piece of advice that Ash gave is to, “Throw some concepts together one your down time to keep yourself fresh”. I will try to keep this in mind going forward just in case. 
 
 **Other things to keep in mind:**
--	`Article`: Stand-alone. This is a good way of knowing where to plave an `Article`
--	Section: Larger content
--	Shortcuts to create a list: `<li> Li*3`
+-	`Article`: Stand-alone. This is a good way of knowing where to plave an `Article`.
+-	Section: Larger content.
+-	Shortcuts to create a list: `<li> Li*3`.
 
 
