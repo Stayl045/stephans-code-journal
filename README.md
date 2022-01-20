@@ -77,4 +77,6 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 - Play around more with CodePen on some spare time of mine. 
 - if i'm feeling bold. Maybe trying add some JS into my codepens.
 
+**Proof of Work**
+1[WikiArticle](https://github.com/Stayl045/stephans-code-journal/blob/a0ec5ce54949528f6ebf058023d5d1770ed75cb9/Proof%20of%20Work.png)
 
