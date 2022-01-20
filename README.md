@@ -80,3 +80,6 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 **Proof of Work**
 ![WikiArticle](https://github.com/Stayl045/stephans-code-journal/blob/a0ec5ce54949528f6ebf058023d5d1770ed75cb9/Proof%20of%20Work.png)
 
+**Links that I looked to when using CSS**
+[CSSColour](https://color.adobe.com/create/color-wheel)
+- I used this tool in the past and I remembred that I could've used it for this first assignment.
