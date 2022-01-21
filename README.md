@@ -83,3 +83,12 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 **Links that I looked to when using CSS**
 [CSSColour](https://color.adobe.com/create/color-wheel)
 - I used this tool in the past and I remembred that I could've used it for this first assignment.
+
+**January 21st**
+**Issue**
+- Live Page isnt working.
+![Screencap]()
+**Resolved** - Simply had to go into the extention and it asked me to reload the extention. This seemed to have fixed the issue.
+- Need to attibute the "lord of the rings" image.
+**Issue**
+- Tried to change Live Server to FireFox, but it didn't work.
