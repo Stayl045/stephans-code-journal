@@ -67,7 +67,7 @@ No plan for today really… Just trying to absorb everything that Ash taught. A 
 Another cool piece of advice that Ash gave is to, “Throw some concepts together one your down time to keep yourself fresh”. I will try to keep this in mind going forward just in case. 
 
 **Other things to keep in mind:**
--	`Article`: Stand-alone. This is a good way of knowing where to plave an `Article`.
+-	`Article`: Stand-alone. This is a good way of knowing where to place the`Article` attribute.
 -	Section: Larger content.
 -	Shortcuts to create a list: `<li> Li*3`.
 
@@ -84,11 +84,25 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 [CSSColour](https://color.adobe.com/create/color-wheel)
 - I used this tool in the past and I remembred that I could've used it for this first assignment.
 
-**January 21st**
+## **January 21st** ##
 **Issue**
 - Live Page isnt working.
 ![Screencap]()
-**Resolved** - Simply had to go into the extention and it asked me to reload the extention. This seemed to have fixed the issue.
-- Need to attibute the "lord of the rings" image.
+**Resolved** 
+  - Simply had to go into the extention and it asked me to reload the extention. This seemed to have fixed the issue.
+  - Need to attibute the "lord of the rings" image.
 **Issue**
 - Tried to change Live Server to FireFox, but it didn't work.
+
+Ash gave us a quick rundown on how to push code through terminal, so I have a new plan:
+
+**Plan:**
+- Learn how create files and folders through the terminal rather then the GUI way.
+  - In the terminal at the root `mkdir assets` for example to create a directoy.
+  - `touch` to create a file.
+  - `mv` to move a file.
+  - `rm` to remove a file.
+  - `../` go back one directory.
+  - `./` right here.
+
+- Ash also gave great adivce that will help me going forward. Use "open to the side" in VS to have my "code journal" on the side, so that I can add entries on the fly. 
