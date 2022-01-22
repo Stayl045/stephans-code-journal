@@ -106,3 +106,6 @@ Ash gave us a quick rundown on how to push code through terminal, so I have a ne
   - `./` right here.
 
 - Ash also gave great adivce that will help me going forward. Use "open to the side" in VS to have my "code journal" on the side, so that I can add entries on the fly. 
+
+- My brother provided key shorts cuts
+  - `Option + shift + down` to create a quick copy. 
