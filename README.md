@@ -87,7 +87,7 @@ Another cool piece of advice that Ash gave is to, “Throw some concepts togethe
 ## **January 21st** ##
 **Issue**
 - Live Page isnt working.
-![Screencap]()
+![Screencap](https://github.com/Stayl045/stephans-code-journal/blob/13d505da8bd188cfca2d8bbdb9e80573c3920bb0/Broken%20Live.png)
 **Resolved** 
   - Simply had to go into the extention and it asked me to reload the extention. This seemed to have fixed the issue.
   - Need to attibute the "lord of the rings" image.
@@ -109,3 +109,5 @@ Ash gave us a quick rundown on how to push code through terminal, so I have a ne
 
 - My brother provided key shorts cuts
   - `Option + shift + down` to create a quick copy. 
+
+**January 24th 2022**
