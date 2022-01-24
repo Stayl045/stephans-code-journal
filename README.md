@@ -111,3 +111,18 @@ Ash gave us a quick rundown on how to push code through terminal, so I have a ne
   - `Option + shift + down` to create a quick copy. 
 
 **January 24th 2022**
+
+- ## GOAL ##
+  - Create a responsive Nav Bar.
+  - Has to be responsive.
+  - That its pleasing to look at.
+  - Create a responsive button.
+- ## NOTES FROM CLASS ##
+  - `:root {}`
+    - Sets custom colours.
+    - `flex-grow` selects certain items to take up more space.
+    - `flex-wrap` shrink.containers to be stack down as window gets smaller.
+    - `Overflow-wrap` 
+    - To inspect colours on a webpage on FireFox, click the little dropper to the right on DevTools.
+  
+Future **goal**: To create a drop down menu on my nav bar when making window smaller.
