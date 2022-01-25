@@ -173,6 +173,9 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
     height: auto;
     }
 - use flex-gap between major components.
+- `@media quiris` must always be at the bottom as they override.
+  - Ash, said, "Queries get you to think what information is most important and which to cut". This is based on the screen size.
+  - Make changes specifically on the query based on which they way you want it to look on browser or mobile.
 
 ## Issue
 
