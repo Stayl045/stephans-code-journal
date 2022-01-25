@@ -149,3 +149,26 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
 - Make a responsive hamburger menu.
 - optomixe the text FlexBox.
 - Improve overall design.
+- Change branch from `master` to `main`.
+- Adjust header text size and font styling.
+- inquire if images saved on local will show up when someone opens up my repo?
+- Make my MGS page life on Pages.
+- Maybe fix my body margin.
+- add some more effects to the cards
+  - Background shadow/glow
+  - Play with more transition and hover effects.
+- **IMPORTANT**: Make hover on
+  cards clickable.
+- Maybe add a `transform: Rotate`.
+- Add `box-shadow` effect.
+
+## Notes from Class
+
+- Make all your assignments **MIT License.**
+
+## Issue
+
+- On GitHub, my CSS for my About Page isn't apprearing.
+  ## **Fixed**
+  - on the `link`, in the `HREF` I added a `.` before linking to the css.
+- Images saved on local aren't showing up on GitHub.
