@@ -161,10 +161,18 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
   cards clickable.
 - Maybe add a `transform: Rotate`.
 - Add `box-shadow` effect.
+- Play around more with `Utility Classes` as it was a topic of discussion for most of the day.
 
 ## Notes from Class
 
 - Make all your assignments **MIT License.**
+- At top of CSS add:
+  - body { margin: 0; }
+  - img {
+    width: 100%;
+    height: auto;
+    }
+- use flex-gap between major components.
 
 ## Issue
 
