@@ -144,7 +144,7 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
 
 ---
 
-## January 25th, 2022
+## January 25th, 2022 (CPNT-260)
 
 **Goals**
 
@@ -202,3 +202,18 @@ Images saved on local aren't showing up on GitHub no matter what I tried.
 
 After hours of scouring the internet, I finally found a solution to this issue on https://github.com/mkdocs/mkdocs/issues/1757. I found that I was using `absolute paths` when I should have been using `relative paths`. For example: `../` instead of `/`. This has fixed this issue. HURRAY!
 ![screencap](https://github.com/Stayl045/stephans-code-journal/blob/d8d172b6d6a3b7bb2eb0b61d5cc6e57e068bc1f6/solved%20issue.png)
+
+---
+
+## January 26th
+
+**GOAL FOR TODAY**
+
+- Learn how to create Hamburger Menu in my services/products assignment for desktop screens.
+
+## Notes
+
+- Images
+  - `div class.img-wrapper *3` + `tab` will auto complete what needs to be filled out.
+
+---
