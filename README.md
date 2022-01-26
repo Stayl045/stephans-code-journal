@@ -188,7 +188,7 @@ On GitHub, my CSS for my About Page isn't apprearing.
 ### Issue #2
 
 Images saved on local aren't showing up on GitHub no matter what I tried.
-![screencap](https://github.com/Stayl045/stephans-code-journal/blob/d8d172b6d6a3b7bb2eb0b61d5cc6e57e068bc1f6/Broken%20Live.png)
+![screencap](https://github.com/Stayl045/stephans-code-journal/blob/fbcbff008168d3a7727dde2bb1cb15cacc1e5292/github-img-display-issue.png)
 
 ### **fixed**
 
