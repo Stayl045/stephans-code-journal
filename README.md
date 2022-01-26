@@ -177,9 +177,17 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
   - Ash, said, "Queries get you to think what information is most important and which to cut". This is based on the screen size.
   - Make changes specifically on the query based on which they way you want it to look on browser or mobile.
 
-## Issue
+## Issue #1
 
-- On GitHub, my CSS for my About Page isn't apprearing.
-  ## **Fixed**
-  - on the `link`, in the `HREF` I added a `.` before linking to the css.
-- Images saved on local aren't showing up on GitHub.
+On GitHub, my CSS for my About Page isn't apprearing.
+**Fixed**
+
+- on the `link`, in the `HREF` I added a `.` before linking to the css.
+
+## Issue #2
+
+Images saved on local aren't showing up on GitHub no matter what I tried.
+![screencap](https://github.com/Stayl045/stephans-code-journal/blob/d8d172b6d6a3b7bb2eb0b61d5cc6e57e068bc1f6/Broken%20Live.png)
+**fixed**
+After hours of scouring the internet, I finally found a solution to this issue on https://github.com/mkdocs/mkdocs/issues/1757. I found that I was using `absolute paths` when I should have been using `relative paths`. For example: `../` instead of `/`. This has fixed this issue. HURRAY!
+![screencap](https://github.com/Stayl045/stephans-code-journal/blob/d8d172b6d6a3b7bb2eb0b61d5cc6e57e068bc1f6/solved%20issue.png)
