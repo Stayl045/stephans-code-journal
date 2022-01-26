@@ -142,6 +142,8 @@ Ash gave us a quick rundown on how to push code through terminal, so I have a ne
 
 Future **goal**: To create a drop down menu on my nav bar when making window smaller.
 
+---
+
 ## January 25th, 2022
 
 **Goals**
@@ -163,6 +165,8 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
 - Add `box-shadow` effect.
 - Play around more with `Utility Classes` as it was a topic of discussion for most of the day.
 
+---
+
 ## Notes from Class
 
 - Make all your assignments **MIT License.**
@@ -177,6 +181,8 @@ Future **goal**: To create a drop down menu on my nav bar when making window sma
   - Ash, said, "Queries get you to think what information is most important and which to cut". This is based on the screen size.
   - Make changes specifically on the query based on which they way you want it to look on browser or mobile.
 
+---
+
 ### Issue #1
 
 On GitHub, my CSS for my About Page isn't apprearing.
@@ -184,6 +190,8 @@ On GitHub, my CSS for my About Page isn't apprearing.
 ### **Fixed**
 
 - on the `link`, in the `HREF` I added a `.` before linking to the css.
+
+---
 
 ### Issue #2
 
