@@ -223,7 +223,7 @@ After hours of scouring the internet, I finally found a solution to this issue o
 ## **Goal**
 
 - To create my page layout and design for **Assignment #2: Products and Services**.
-- Also, to create a 404 error page.
+- Also, to create a 404 error page due on the **28th**.
 
 ## Plan
 
@@ -231,7 +231,19 @@ After hours of scouring the internet, I finally found a solution to this issue o
 - Main color scheme
 - How I want the pay to layout
 - What tools in CSS will I utilize and learn
+- Explore some CSS Grid
+  designs to use for assignment #2
+  1. Choose a design
+  2. Convert some Images
+  3. Choose a color scheme (maybe add a template)
+- Add a toggle drop down menu as some flare.
 
-## Notes for the Day:
+## Notes for the Day
 
--
+### GRID
+
+- Use Display: Grid;
+- How: Set Grid Columns
+  - Optomize using repeat
+  - Set up `auto` flow riles and `min-max` rules
+  - Use `justify-items`, `align-items` and `place-items`
