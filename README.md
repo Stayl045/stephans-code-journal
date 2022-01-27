@@ -237,6 +237,7 @@ After hours of scouring the internet, I finally found a solution to this issue o
   2. Convert some Images
   3. Choose a color scheme (maybe add a template)
 - Add a toggle drop down menu as some flare.
+- Add a GitHub Repo.
 
 ## Notes for the Day
 
