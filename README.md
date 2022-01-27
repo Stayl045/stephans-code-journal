@@ -247,3 +247,5 @@ After hours of scouring the internet, I finally found a solution to this issue o
   - Optomize using repeat
   - Set up `auto` flow riles and `min-max` rules
   - Use `justify-items`, `align-items` and `place-items`
+    use fraction `fr` unit
+    use `gap`
