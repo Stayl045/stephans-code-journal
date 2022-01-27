@@ -229,8 +229,8 @@ After hours of scouring the internet, I finally found a solution to this issue o
 
 - Think of a design theme
 - Main color scheme
-- How I want the pay to layout
-- What tools in CSS will I utilize and learn
+- How I want the play with the layout?
+- What tools in CSS will I utilize and learn?
 - Explore some CSS Grid
   designs to use for assignment #2
   1. Choose a design
@@ -238,10 +238,15 @@ After hours of scouring the internet, I finally found a solution to this issue o
   3. Choose a color scheme (maybe add a template)
 - Add a toggle drop down menu as some flare.
 - Add a GitHub Repo.
+- Create a `utilities.css` folder. Maybe even a `fonts.css` folders in the assets folder. This oganizes the contents easier.
+  - call <link href=""> for the `utilities`, `fonts`, `reset` and other folders before the `main.css`
+  -
 
-## Notes for the Day
+## Class Notes for the Day
 
-### GRID
+- learn to use some essential Hot Keys
+
+### GRID NOTES
 
 - Use Display: Grid;
 - How: Set Grid Columns
@@ -250,3 +255,6 @@ After hours of scouring the internet, I finally found a solution to this issue o
   - Use `justify-items`, `align-items` and `place-items`
     use fraction `fr` unit
     use `gap`
+- **Trick with grid**: Header rule to expand all the columns and its space.
+  - Tell grid to start at a certain column use: `grid-column-start` on third column for example
+- `grid-column: 1 / -1` (short hand syntax): This starts in the first column to the
