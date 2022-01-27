@@ -217,3 +217,21 @@ After hours of scouring the internet, I finally found a solution to this issue o
   - `div class.img-wrapper *3` + `tab` will auto complete what needs to be filled out.
 
 ---
+
+## January 27th
+
+## **Goal**
+
+- To create my page layout and design for **Assignment #2: Products and Services**.
+- Also, to create a 404 error page.
+
+## Plan
+
+- Think of a design theme
+- Main color scheme
+- How I want the pay to layout
+- What tools in CSS will I utilize and learn
+
+## Notes for the Day:
+
+-
