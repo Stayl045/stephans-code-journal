@@ -258,3 +258,10 @@ After hours of scouring the internet, I finally found a solution to this issue o
 - **Trick with grid**: Header rule to expand all the columns and its space.
   - Tell grid to start at a certain column use: `grid-column-start` on third column for example
 - `grid-column: 1 / -1` (short hand syntax): This starts in the first column to the
+- Maybe start `main` with `display: flex` + `justify-content: center` to play with both flex and grid.
+
+## Some Useful attributes:
+
+- `auto-fill`: Fits as many remaining columns
+- `auto-fit`: Fits the currently available columns
+- `tab` hold to select more that one item thats needs adjustment.
