@@ -265,3 +265,34 @@ After hours of scouring the internet, I finally found a solution to this issue o
 - `auto-fill`: Fits as many remaining columns
 - `auto-fit`: Fits the currently available columns
 - `tab` hold to select more that one item thats needs adjustment.
+
+---
+
+## January 28th Notes
+
+### Goals
+
+I would like to have my layout completed on assignment #2 by the end of that
+
+- In addition to that, finish the "error 404 page#
+
+### Plan
+
+- Play around with `grid` a bit more. I feel like im not grasping how it fully works yet.
+  - For the assingnment, ill play with creating box layouts and work with its attributes.
+
+## Todays Class Notes
+
+- Creating a `label` layout:
+  - **Example:**"
+    - <form action="" method="get">
+      <legend>Info</legend>
+        input type="text"> Username="user"
+        id="user"></label>
+        input type="text" name="User">
+      </form>"
+    - Can pair all `labels` in a `fieldset`
+  - Words of Wisdom from Ash - "Come up with a set of Goals"
+    - Collaborate with parnters in a cohesive manor. Each have a task to do. Ex: One person researaches color schemes while the other types out the boiler plate template.
+    - Look up documentation.
+    - Choose a color scheme
