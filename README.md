@@ -296,3 +296,12 @@ I would like to have my layout completed on assignment #2 by the end of that
     - Collaborate with parnters in a cohesive manor. Each have a task to do. Ex: One person researaches color schemes while the other types out the boiler plate template.
     - Look up documentation.
     - Choose a color scheme
+
+## January 29th Notes
+
+Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Previously, I was fumbling like chicken with his head cut off randomly inputing commads :(.
+
+- Today, this changed after watching [Kevin Powell's](https://www.youtube.com/watch?v=rg7Fvvl3taU) guide to `CSS-Grid` video.
+  - About halfway through the video, I determined that I was under-utilizing FireFox Dev Tools and not reading the grid correctly.
+    - I learned that I needed to turn on my `Grid Display Setting` Checkboxes. After doing this, I learned how to navigate the lines and change my CSS accordingly.
+    - As a results, I successfully played around with Grid boxes to the point where I am feeling comforable making a half-way decent layouts. HAZAHHH!!!
