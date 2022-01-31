@@ -328,3 +328,4 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
   width: 100%;
   height: auto;
   }"
+- Use `grid-portrait` class to tall images and `grid-wide` for long images
