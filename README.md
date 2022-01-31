@@ -314,7 +314,7 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 2. create folder/file directories
 3. Create a seperate CSS folder/file for all the fonts that I want to use can link to
 4. Create a reset.css for `*` CSS.
-5. Create a wire-frame for my layout by organizing images occording to their widht and height
+5. Create a wire-frame using Figma for my layout by organizing images occording to their widht and height
 
 - "This workflow helps reduce errors.
 
