@@ -305,3 +305,9 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
   - About halfway through the video, I determined that I was under-utilizing FireFox Dev Tools and not reading the grid correctly.
     - I learned that I needed to turn on my `Grid Display Setting` Checkboxes. After doing this, I learned how to navigate the lines and change my CSS accordingly.
     - As a results, I successfully played around with Grid boxes to the point where I am feeling comforable making a half-way decent layouts. HAZAHHH!!!
+
+## Jan 31st Journal Entry Notes
+
+### Todays Notes: Building an Image Gallery
+
+- Its a good idea to choose images that have similar themes and color shemes
