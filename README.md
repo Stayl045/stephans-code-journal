@@ -308,6 +308,13 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 
 ## Jan 31st Journal Entry Notes
 
-### Todays Notes: Building an Image Gallery
+### Plan for Building my Gallery
 
-- Its a good idea to choose images that have similar themes and color shemes
+- 1. Its a good idea to choose images that have similar themes and color shemes
+- 2. create folder/file directories
+- 3. Create a seperate CSS folder/file for all the fonts that I want to use can link to
+- 4. Create a reset.css for `*` CSS.
+- 5. Then add the content.
+  - "This workflow helps reduce errors.
+
+### Todays Notes: Building an Image Gallery
