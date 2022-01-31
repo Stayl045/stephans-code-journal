@@ -310,11 +310,21 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 
 ### Plan for Building my Gallery
 
-- 1. Its a good idea to choose images that have similar themes and color shemes
-- 2. create folder/file directories
-- 3. Create a seperate CSS folder/file for all the fonts that I want to use can link to
-- 4. Create a reset.css for `*` CSS.
-- 5. Then add the content.
-  - "This workflow helps reduce errors.
+1. Its a good idea to choose images that have similar themes and color shemes
+2. create folder/file directories
+3. Create a seperate CSS folder/file for all the fonts that I want to use can link to
+4. Create a reset.css for `*` CSS.
+5. Then add the content.
+6. Remember to think about overflow.
+
+- "This workflow helps reduce errors.
 
 ### Todays Notes: Building an Image Gallery
+
+- Use figures as parents to the `img` with `figcaption` in between.
+- can mix flexbox within the `grid` on the `figure` selector and choose a `flex-direction`
+- Add comments in between each image to quickly know where to navigate to
+- Remember to set "img {
+  width: 100%;
+  height: auto;
+  }"
