@@ -314,18 +314,19 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 2. create folder/file directories
 3. Create a seperate CSS folder/file for all the fonts that I want to use can link to
 4. Create a reset.css for `*` CSS.
-5. Then add the content.
-6. Remember to think about overflow.
+5. Create a wire-frame for my layout by organizing images occording to their widht and height
 
 - "This workflow helps reduce errors.
 
 ### Todays Notes: Building an Image Gallery
 
-- Use figures as parents to the `img` with `figcaption` in between.
+- Use `figure` as a parent to the `img` with `figcaption` in between.
 - can mix flexbox within the `grid` on the `figure` selector and choose a `flex-direction`
 - Add comments in between each image to quickly know where to navigate to
+- Remember to think about overflow.
 - Remember to set "img {
   width: 100%;
   height: auto;
   }"
 - Use `grid-portrait` class to tall images and `grid-wide` for long images
+- figcaption text can be on top of image by using `grid-column: 1 /1` + `grid-row: 1`
