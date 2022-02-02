@@ -338,3 +338,20 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 ### Notes
 
 set images that spread two columns to `1 / -1` rather than `span 2;` as this causes it to only stay at two columns no matter the screen size.
+
+## February 2nd Notes
+
+### **Goal for the Day**
+
+I was finally able to create a gallery that is responsive when the sizes are smaller. However, the layout has all the same heights and widths.
+
+- Therefore, today I will attempt to have more of a random sized layout.
+  - To accomplish this, I will research `implicit` and `explicit` grid and attempt to change things accordingly.
+- I will also try to figure out `custom variables/utility classes/root styles` better as it seems essential.
+
+## Notes for the Day
+
+- Ashe "White space is your friend"
+- Use `formspree` to attach API to homepage.
+- Jessica Gust, "Alignment is very important!"
+- Write `done` when you are done omptomizing other peoples code. Helps the person track through the changes faster.
