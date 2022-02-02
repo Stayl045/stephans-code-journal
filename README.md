@@ -348,14 +348,20 @@ I was finally able to create a gallery that is responsive when the sizes are sma
 - Therefore, today I will attempt to have more of a random sized layout.
   - To accomplish this, I will research `implicit` and `explicit` grid and attempt to change things accordingly.
 - I will also try to figure out `custom variables/utility classes/root styles` better as it seems essential.
+- Use `formspree` or `formstark` to attach API for my homepage assignment.
+  - Sign up and create an account.
+  - Navigate to HTML and copy the top text of the form
+    - <.form action="the link I copied"
+    - change <.method="post".>
 
 ## Notes for the Day
 
 - Ashe "White space is your friend"
-- Use `formspree` to attach API to homepage.
+
 - Jessica Gust, "Alignment is very important!"
 - Write `done` when you are done omptomizing other peoples code. Helps the person track through the changes faster.
 
 - Jessica Gust, "I find you can also take a piece of paper and put it against your screen so you can do line by line".
+- Download "BitWarden" as my password manager
 
 ## Review of 260 Notes
