@@ -339,6 +339,8 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 
 set images that spread two columns to `1 / -1` rather than `span 2;` as this causes it to only stay at two columns no matter the screen size.
 
+---
+
 ## February 2nd Notes
 
 ### **Goal for the Day**
@@ -353,6 +355,7 @@ I was finally able to create a gallery that is responsive when the sizes are sma
   - Navigate to HTML and copy the top text of the form
     - <.form action="the link I copied"
     - change <.method="post".>
+- Add animations to my title to make it fun and engaging
 
 ## Notes for the Day
 
@@ -367,13 +370,70 @@ I was finally able to create a gallery that is responsive when the sizes are sma
 
 - Form:
   - Use `block` to have the following text on a different line.
+- CSS is inherintly cascading
 
 ## Transition & Animation Notes
 
-### Transitions
+### **Transitions**
 
--
+- Slide content: ".slide-box {
+  transform: translateX(100px)
+  }"
+  - can move depending on how many px you set
+- #### **Slide Transition:**
+- Can use `transition` in its various forms to make some cool effects
+- ".slide-box: active {
+  transition: transform
+  2s ease;
+  }"
+  - moves at that pace; can also use `ms` for quicker response
+- #### **Spinning Transition:**
+  - Make items spin
+  - "#spin-ball {
+    transition: transform 3s ease;
+    }"
+  - "#spin-ball:hover {
+    transform: rotate(100turn);
+    }"
+- #### **Skew a Shape:**
+  - Shapes skews in a specified direction
+  - "#skew-rect {
+    trasition: transform 3s;
+    transform: skew(-50deg);
+    }"
+  - "#skew-rect:hover {
+    transform: skew(20deg);
+    }"
+  - Can transform scale:
+    - tranform: scale(0.2)
+- #### **Cubic-Bezier** KNOW THIS
 
-### Animation
+  -[cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+
+### **Animation/Key Frames**
+
+#### **Changing Color**
+
+- "@keyframes color-shift {
+  from {
+  transform: translateX(0%);
+  }
+
+  to {
+  transform: translateX(100%);
+  }
+  }
+  /_ Then apply the keyframe like this _/
+  .class-name {
+  animation: identifier 5s infinite;
+  }"
+
+}
+
+".text-color {
+animation-name: color-shift;
+animation-duration: 4s;
+animiation-iteration-count: infinite;
+}"
 
 ## Review of 260 Notes
