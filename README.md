@@ -355,3 +355,7 @@ I was finally able to create a gallery that is responsive when the sizes are sma
 - Use `formspree` to attach API to homepage.
 - Jessica Gust, "Alignment is very important!"
 - Write `done` when you are done omptomizing other peoples code. Helps the person track through the changes faster.
+
+- Jessica Gust, "I find you can also take a piece of paper and put it against your screen so you can do line by line".
+
+## Review of 260 Notes
