@@ -368,8 +368,12 @@ I was finally able to create a gallery that is responsive when the sizes are sma
 - Form:
   - Use `block` to have the following text on a different line.
 
-## Animation Notes
+## Transition & Animation Notes
+
+### Transitions
 
 -
+
+### Animation
 
 ## Review of 260 Notes
