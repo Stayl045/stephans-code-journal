@@ -427,8 +427,7 @@ I was finally able to create a gallery that is responsive when the sizes are sma
   .class-name {
   animation: identifier 5s infinite;
   }"
-
-}
+  }
 
 ".text-color {
 animation-name: color-shift;
@@ -436,4 +435,31 @@ animation-duration: 4s;
 animiation-iteration-count: infinite;
 }"
 
+- #### **Translate #3D**
+- Transform: 3d()
+- can be attached to key "frames.
+  from {
+  transform: translaate 3d()
+  to {
+  transform: translate 3d()
+  }
+  }"
+  or shorthand
+
+  - "animation: 3s ease-in-out infinite bounce;
+
+- #### **Floating Ball**
+
+  - floating-ball {
+    animation: dot;
+    animation-duration: 2s;
+
+  }
+
 ## Review of 260 Notes
+
+- think about syntax
+- class override values
+- in flexbox
+  - avoid using margin and padding to position items as it can break on mobile screens
+- Avoid spam coding (THINK THINGS THROUGH)
