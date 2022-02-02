@@ -331,7 +331,7 @@ Today....I **FINALLY** have a basic understanding of how `CSS-Grid` works!! Prev
 - Use `grid-portrait` class to tall images and `grid-wide` for long images
 - figcaption text can be on top of image by using `grid-column: 1 /1` + `grid-row: 1`
 
-## CPNT 260: February 1nd Journal Entry
+## CPNT 260: February 1st Journal Entry #5
 
 ### Building a Hero Section
 
