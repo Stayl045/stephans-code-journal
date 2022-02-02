@@ -363,5 +363,13 @@ I was finally able to create a gallery that is responsive when the sizes are sma
 
 - Jessica Gust, "I find you can also take a piece of paper and put it against your screen so you can do line by line".
 - Download "BitWarden" as my password manager
+- Add more `comments` to my projects as it can be pretty handy
+
+- Form:
+  - Use `block` to have the following text on a different line.
+
+## Animation Notes
+
+-
 
 ## Review of 260 Notes
