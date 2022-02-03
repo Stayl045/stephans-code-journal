@@ -473,8 +473,17 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
 #### **Plan**
 
 1. Think of a home page theme
-2. plan what that page will look like
-3. Pull utility colors and other attributes
-4. Find images on "UnSplash"
+2. Plan what that page will look like
+3. Create a repo
+4. Pull utility colors and other attributes
+5. Find images on "UnSplash"
+6. Ogranize my folders
+7. Start designing
 
 ### JavaScript Basics
+
+- we are doing js es5 and es6
+- **REALLY understand `functions` if anything else!! KNOW**
+- We use `CONST` more often then `let`
+- all the JavaScript must be in the `head`.
+  - this is a modern convention
