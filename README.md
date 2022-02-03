@@ -464,6 +464,17 @@ animiation-iteration-count: infinite;
   - avoid using margin and padding to position items as it can break on mobile screens
 - Avoid spam coding (THINK THINGS THROUGH)
 
-## February 3rd Notes
+## February 3rd Journal Notes
+
+### Goal for Today
+
+I would like to get a head start on assignment 4 by deciding what kind of Home Page I want to developr.
+
+#### **Plan**
+
+1. Think of a home page theme
+2. plan what that page will look like
+3. Pull utility colors and other attributes
+4. Find images on "UnSplash"
 
 ### JavaScript Basics
