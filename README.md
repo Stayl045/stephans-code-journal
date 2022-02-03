@@ -463,3 +463,7 @@ animiation-iteration-count: infinite;
 - in flexbox
   - avoid using margin and padding to position items as it can break on mobile screens
 - Avoid spam coding (THINK THINGS THROUGH)
+
+## February 3rd Notes
+
+### JavaScript Basics
