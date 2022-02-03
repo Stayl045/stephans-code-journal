@@ -487,3 +487,4 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
 - We use `CONST` more often then `let`
 - all the JavaScript must be in the `head`.
   - this is a modern convention
+- if you get an `error` `invalid unit` on console. check if its `const`
