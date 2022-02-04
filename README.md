@@ -493,3 +493,4 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
 
 - In JS, in htmlthe `Defer`in the `script` tag is critical as without it, the page may break! Itll run after the DOM loads rather then before.
   - Always add `defer` to save myself future headaches in JS.
+  - "<.script src="js/tip.js" defer></script.>" REMEMBER THIS!!
