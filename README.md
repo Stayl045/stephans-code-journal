@@ -488,3 +488,7 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
 - all the JavaScript must be in the `head`.
   - this is a modern convention
 - if you get an `error` `invalid unit` on console. check if its `const`
+
+## February 4th Notes
+
+- In JS, in htmlthe `Defer`in the `script` tag is critical as without it, the page may break! Itll run after the DOM loads rather then before.
