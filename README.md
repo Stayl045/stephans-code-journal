@@ -507,9 +507,20 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 
 #### Functions
 
-- Differnce between declaring and invoking a function.
-- Arguments and Parameters
-- Dealing with `Coercion`
+- Functions are slef containted code that take inputs and outputs (return value)
+  - Want to use a single piece of code that we can use multiple times
+- Functions are in `()` parenthisies.
+
+- ## Differnce between declaring and invoking a function.
+  - Methods are .Method for example is essentially a function
+
+#### Arguments and Parameters
+
+#### Dealing with **`Coercion`**
+
+- Function expression
+  - const greet = function (){
+    }
 
 ### Plugin Achievement Assignment
 
