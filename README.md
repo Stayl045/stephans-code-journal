@@ -495,8 +495,25 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
   - Always add `defer` to save myself future headaches in JS.
   - "<.script src="js/tip.js" defer></script.>" REMEMBER THIS!!
 
+---
+
 ## CPNT-262 Journal #1 Notes Febraury 7th
 
 ### Goal for the Day
 
 My main two milestones for the day would be to get a head start on the `plugin` assignment and to get a more of a comprehensive understanding of `functions` within JavaScript.
+
+### Class Notes for the Day
+
+#### Functions
+
+- Differnce between declaring and invoking a function.
+- Arguments and Parameters
+- Dealing with `Coercion`
+
+### Plugin Achievement Assignment
+
+#### Plan
+
+1. Locate a JS library
+2. Create a repo for this assignment
