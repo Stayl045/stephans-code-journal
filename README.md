@@ -495,4 +495,4 @@ I would like to get a head start on assignment 4 by deciding what kind of Home P
   - Always add `defer` to save myself future headaches in JS.
   - "<.script src="js/tip.js" defer></script.>" REMEMBER THIS!!
 
-## CPNT-262 Journal #1 Notes
+## CPNT-262 Journal #1 Notes Febraury 7th
