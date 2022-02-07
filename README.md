@@ -512,15 +512,27 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 - Functions are in `()` parenthisies.
 
 - ## Differnce between declaring and invoking a function.
-  - Methods are .Method for example is essentially a function
+- Function expression
+
+  - const greet = function (){
+    }
+  - ## Invoking
+  - Fat Arrow
+
+    - "const greet = () => {
+
+    }"...This is prefered way to declare functions.
 
 #### Arguments and Parameters
 
-#### Dealing with **`Coercion`**
+- To add parameters, add in between the `()`.
+- Template Literals
+  - A cleaner way of injecting variables into string
+    - Use backtik string $
+    - the name has to be in the of argument into the functions between the parathesies
+- "`Prompt` (My birthday is)" to add arguments in a different way
 
-- Function expression
-  - const greet = function (){
-    }
+#### Dealing with **`Coercion`**
 
 ### Plugin Achievement Assignment
 
