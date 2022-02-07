@@ -534,6 +534,8 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 
 #### Dealing with **`Coercion`**
 
+- when JS will auto convernt one data type to another. This may lead to unexpected results
+
 ### Plugin Achievement Assignment
 
 #### Plan
