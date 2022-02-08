@@ -552,6 +552,18 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 - Use `element.innerText` for achievement #2
 - To change specific `string` words.
   - string.toCharAt(0).toUpperCase() - to change to uppercase
+- to turn string into an object
+- Dont have to name the same thing
+  - `Object("string")`
+- toFixed() - can move number to nearest decimal place
+
+### **Steps To Take for Syntax and Logic Errrors**
+
+1. To console log your variables
+
+- Its because we are dealing with `coercion` prompt may turn number into string
+- No squigly line means its not a syntax error
+- console log relevant variables to confirm what you expect
 
 ### document.querySelector()
 
