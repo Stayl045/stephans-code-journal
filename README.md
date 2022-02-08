@@ -575,10 +575,24 @@ My main two milestones for the day would be to get a head start on the `plugin` 
     - below that is all the content. Ex. h1, p, form,
     3. Css and event listener attach to the content
   - This creates the tree in memory
+  - to add js to selector
+    - document.querySelector("button");
+  - We are going to be interacting with DOM a lot by pressing `.`
 
 #### document.querySelector()
 
--
+- goal: execute prompts when button is pressed
+- 1. Wrap prompts inside an `clickHander() function`
+  - create a function with event that you are usling
+    - ex. const clickHandler = () => {} in `js`
+    - in HTML
+
+2. Instead of manually invoking function, attach it to a button as an event listener
+
+- const button = document.querySelector('button') console.log(button)
+
+3. create a button variable
+4. add `clickHandler()` to a button with a `click` event
 
 #### eventTarget.addEvent Listener()
 
