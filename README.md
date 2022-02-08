@@ -565,8 +565,23 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 - No squigly line means its not a syntax error
 - console log relevant variables to confirm what you expect
 
-### document.querySelector()
+### Events
 
-### eventTarget.addEvent Listener()
+- These allow us to interact with the DOM
+- ![DOM-tree]()
+  - Basicly a tree:
+    1. top: HTML
+    2. Underneath: Head and body
+    - below that is all the content. Ex. h1, p, form,
+    3. Css and event listener attach to the content
+  - This creates the tree in memory
+
+#### document.querySelector()
+
+-
+
+#### eventTarget.addEvent Listener()
+
+#### Button
 
 Attaching triggers to any DOM element which triggers the function
