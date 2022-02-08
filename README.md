@@ -568,7 +568,7 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 ### Events
 
 - These allow us to interact with the DOM
-- ![DOM-tree]()
+- ![DOM-tree](https://github.com/Stayl045/stephans-code-journal/blob/1db07199ba323290d98c178ef8a0574f8807b5ad/dom-tree.png)
   - Basicly a tree:
     1. top: HTML
     2. Underneath: Head and body
