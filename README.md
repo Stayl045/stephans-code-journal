@@ -542,3 +542,19 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 
 1. Locate a JS library
 2. Create a repo for this assignment
+
+## February 8th
+
+## Notes for the Day
+
+- One of the most use of functions is used for invoking triggered functions
+- Used for lots of cliking events
+- Use `element.innerText` for achievement #2
+- To change specific `string` words.
+  - string.toCharAt(0).toUpperCase() - to change to uppercase
+
+### document.querySelector()
+
+### eventTarget.addEvent Listener()
+
+Attaching triggers to any DOM element which triggers the function
