@@ -599,3 +599,9 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 #### Button
 
 Attaching triggers to any DOM element which triggers the function
+
+## February 9th Journal Notes
+
+### More Info on ClickHandler
+
+### Forms
