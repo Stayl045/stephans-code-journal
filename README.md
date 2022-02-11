@@ -607,7 +607,25 @@ Attaching triggers to any DOM element which triggers the function
 
 ### Utility Functions
 
+- REALLY IMPORTANT!! What is an expressions and how expressions move through an application
+- Using an Utility as an expression
+- They are small and narrow
+- Download Library: `LoDash`
+
 ### Value Validation
+
+- Syntax error
+  - Error of wrinting in js
+  - easiest to debug
+  - has squiglys
+    -RUN time errors
+  - code is technically correct
+  - example: file/library/module not found
+- Logic Error
+  - Code is broken
+- Often get these errors when their is unexpected data type
+- Not defined
+- When something is out of scope
 
 ### Scope
 
