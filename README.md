@@ -600,8 +600,15 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 
 Attaching triggers to any DOM element which triggers the function
 
-## February 9th Journal Notes
+## February 11th Journal Notes
 
-### More Info on ClickHandler
+- Dont do more then 1 comparison operator at the same time
+  - Instead use `&&` operator to validate if seperate variables aer true
 
-### Forms
+### Utility Functions
+
+### Value Validation
+
+### Scope
+
+###
