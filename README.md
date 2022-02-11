@@ -643,6 +643,14 @@ Attaching triggers to any DOM element which triggers the function
 - Array
   - (Array.isArray(myVar))
 
+#### Advenced Assignment operstion
+
+- **Logical or (||)**
+  - Returns on the right-hand side whn left-hand value oprand is a fasly value
+- **nullish Coalescing or (??)**
+  - Returns right-hand oprand when lef-hand oprand is null, undefinfed, and not other falsy values.
+- **Optional Chaining Operator (?.)**
+
 ### Scope
 
 ###
