@@ -600,6 +600,8 @@ My main two milestones for the day would be to get a head start on the `plugin` 
 
 Attaching triggers to any DOM element which triggers the function
 
+---
+
 ## February 11th Journal Notes
 
 - Dont do more then 1 comparison operator at the same time
@@ -625,7 +627,21 @@ Attaching triggers to any DOM element which triggers the function
   - Code is broken
 - Often get these errors when their is unexpected data type
 - Not defined
-- When something is out of scope
+- When something is out of scope (usually returns undefined)
+
+#### **Testing for Undefined**
+
+- if (typeof myVar !== 'undefined' {})
+
+- example:
+  - const name = "stephan"
+  - typeof name : This should output string
+
+#### Testing for specife data types
+
+- Google this
+- Array
+  - (Array.isArray(myVar))
 
 ### Scope
 
