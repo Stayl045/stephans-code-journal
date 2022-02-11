@@ -647,10 +647,12 @@ Attaching triggers to any DOM element which triggers the function
 
 - **Logical or (||)**
   - Returns on the right-hand side whn left-hand value oprand is a fasly value
-- **nullish Coalescing or (??)**
+- **Nullish Coalescing or (??)**
   - Returns right-hand oprand when lef-hand oprand is null, undefinfed, and not other falsy values.
 - **Optional Chaining Operator (?.)**
 
 ### Scope
+
+- Where a variable is available in your code
 
 ###
