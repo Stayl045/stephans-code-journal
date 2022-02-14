@@ -659,4 +659,19 @@ Attaching triggers to any DOM element which triggers the function
 
 ### Arrays
 
+- Array start at '0' rather than '1'
+- **Array Literal**
+
+  - A comma seperated list of values surrounded by []. ex. ['cats', 'dogs', 'fish']
+
+- **Array Index**
+  - The location of an item in an array. This is always a sequential number starting at 0.
+- **Array Item#**
+  - Individual value
+  - Any Javascript days type (i.e. value) that an array index points to.
+- Value Data Types
+  - can be nay data type
+    - Although its possible you'll normally see one specefic data type
+- **Length**
+  - How many items are in a particular array 
 ### Strings
