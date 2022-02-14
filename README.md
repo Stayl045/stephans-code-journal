@@ -655,4 +655,8 @@ Attaching triggers to any DOM element which triggers the function
 
 - Where a variable is available in your code
 
-###
+## February 14th Notes: Arrays and Strings
+
+### Arrays
+
+### Strings
