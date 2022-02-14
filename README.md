@@ -673,5 +673,27 @@ Attaching triggers to any DOM element which triggers the function
   - can be nay data type
     - Although its possible you'll normally see one specefic data type
 - **Length**
-  - How many items are in a particular array 
-### Strings
+  - How many items are in a particular array
+  - Last item would be (-1)
+- Finding and Removing Items
+  - find the index of an item
+    let pos = animals.indexOf('bear');
+  - **Remove and Item by Index** Position
+    - let removeItem = animals.splice(pos, 1);
+- Search Arrays
+  - This includes ()
+- Convert an Array to a String
+  - (elements. going)
+
+### Strings and String Methods
+
+- The String Object
+  - JS can convert strings in a string object, which in includes:
+    - An Array of each character in the string
+    - An string.Length property representing the number of characters in the string
+    - A number of string methods that provide useful searching and manipulation function. These methods will often accept or return the index of a characeter or substring.
+- **Common sting Operations**
+  - the the 'lentgth' of a string
+- Testing for a substring
+  - thie includes() method
+-
