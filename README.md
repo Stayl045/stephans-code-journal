@@ -697,3 +697,33 @@ Attaching triggers to any DOM element which triggers the function
 - Testing for a substring
   - thie includes() method
 -
+
+## February 15th Notes
+
+### For Loop
+
+- The `for looops` is ubiquoes in the programming world. Almost every programming langauge has one and many employers will use a for loop challange in their hiring proces
+- Terminology
+  - Iteration
+    - Some procerdure that is repeated multiple times
+  - itereator
+    - A counter variable that keeps track of which program is in
+  - Iterable
+    - An object which can be looped over or iterated over with the help of a for loop/.
+- The for LOOP SYNTAX
+  - "FOR ([INITIALIZER]); [condition]; [increment]){
+    // Code goes herer
+    }"
+  - example: to print 1 to 100 for a loop.
+    - "for (let i =; i <=; i++) {
+      console.log(i);
+      }"
+  - The for Loop Process
+    1. The initializer expression executes and creates one or more loop counters. The syntax allws an expression of any degree of complexity
+    2. The conition expression is evaluated
+    3. the block executes
+    4. the increment expressions excuted
+    5. Control returns to step 2
+  - KEy Takeways
+    - Name Iterator (i): its the convention
+- be careful when defining your condition. Its easy to be 'one-off' when choosing a comparison such as < and <=.
