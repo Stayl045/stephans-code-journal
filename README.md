@@ -770,3 +770,12 @@ Attaching triggers to any DOM element which triggers the function
 - 'pausing' your code with AWAIT
   - used to 'pause' your code when incoking a function that returns a promise.
   -
+- Key Takeways
+  - The execution script will finish beore code can execute
+  - Promises act as a 'reminder' for your code prociess as repsonse once it arrives
+  -
+- Think to remember
+  - ways only works insude a function defined with async keyword
+  - Away must be added in front of any unfction
+  - any data retursn from a promise is only available inside a async function
+  - use try...catch blocks to handle rejected promises
