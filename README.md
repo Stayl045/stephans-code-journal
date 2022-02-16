@@ -727,3 +727,46 @@ Attaching triggers to any DOM element which triggers the function
   - KEy Takeways
     - Name Iterator (i): its the convention
 - be careful when defining your condition. Its easy to be 'one-off' when choosing a comparison such as < and <=.
+
+## February 16th Notes
+
+### Ayscynscronous Code
+
+-Good way of understading Asyncronous code
+
+- Go to McDonalds, they are going got take your order. Make order and wait for food. This is a asynhronous environemnt
+
+- Blocking
+- when browser executes extensive chunk of code
+
+- Promises
+  - New style of sync code that youll see used in web APIs
+
+### Retreieving Data with Fetch
+
+- Terminology
+  - Callback
+    - Anytime you pass a argument to another functions as a value to be invoked later
+  - Promise
+    - Instead of callbacks. Can only have two outcomes: **Success or Failure**
+- async/await
+  - New in ES7: provides
+- Traditional Promises
+  - fetch (), .then and .catch means its a promise
+- Async/awaiy
+  - syntax for using promises.
+  - const fetchData = async function() {
+    const response = awaiy fetch ()
+    const data = away
+    }
+- Async function
+
+  - 1. We need a function
+
+    - const fetchData = async function () {
+
+    }
+
+- 'pausing' your code with AWAIT
+  - used to 'pause' your code when incoking a function that returns a promise.
+  -
