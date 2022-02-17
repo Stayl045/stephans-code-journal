@@ -779,3 +779,34 @@ Attaching triggers to any DOM element which triggers the function
   - Away must be added in front of any unfction
   - any data retursn from a promise is only available inside a async function
   - use try...catch blocks to handle rejected promises
+
+## February 17th Code Journal Notes
+
+### Exceptions
+
+- An error object created by JS when there a runtime error. It contains a description of error and where its occured
+- throw exception
+  - Act of generating an exception
+
+### Try-catch-finally
+
+- A stetment that handles exceptions
+- Try
+  - A clause that runs code that can generate exceptions
+- Catch
+  - A clause that catches exceptsions that are thrown
+- Finally
+  - A clause that always gets executed
+- Throw
+  - A statment that manually generates exceptions
+
+### Exceptions Promises
+
+- Promises can either succeed or fail
+- Rejected promises with throw
+
+### Considerations with fetch()
+
+- it only rejects a promise if there is a network error
+- an exceptions is not thrown when excounteres a 404 error not found or similer error
+  - Fetch returns a Response.Ok property that is true if status is between 200 - 304
