@@ -780,6 +780,8 @@ Attaching triggers to any DOM element which triggers the function
   - any data retursn from a promise is only available inside a async function
   - use try...catch blocks to handle rejected promises
 
+---
+
 ## February 17th Code Journal Notes
 
 ### Exceptions
@@ -809,4 +811,19 @@ Attaching triggers to any DOM element which triggers the function
 
 - it only rejects a promise if there is a network error
 - an exceptions is not thrown when excounteres a 404 error not found or similer error
-  - Fetch returns a Response.Ok property that is true if status is between 200 - 304
+
+  - Fetch returns a Response.Ok property that is true if status is between 200 - 299. Others is false
+
+  ***
+
+## February 18th CPNT 201 Journal Notes
+
+### Node (CMD/Server) npm Package Manner
+
+- **Dependancy Management**
+- Keeping track of software versions is hard work. npm makes this easier
+- **Development and Deployment**
+  - Along with git, npm is odten used to manage code on live servers
+- **Project Collaboration**
+  - Aling with get, npm is used to make sure team members are developing with the same software versions
+-
