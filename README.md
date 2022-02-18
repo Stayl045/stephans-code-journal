@@ -826,4 +826,22 @@ Attaching triggers to any DOM element which triggers the function
   - Along with git, npm is odten used to manage code on live servers
 - **Project Collaboration**
   - Aling with get, npm is used to make sure team members are developing with the same software versions
--
+
+### Terminology
+
+- **Dependaccy**
+  - Software that your aoo neeeds to function properly. Each dependancy will also often also have their own dependicies
+- **Package Managment Sysyems**
+  - Software that automates the installation and updating of software dependencies
+- **Semantic Versioing**
+  - A three number version system (major.minor.patch => 2.3.1) for software
+- **Node**
+  - A framework for running JS from the command line or on a server
+- node will not run browser-specefic codel like document.queryselector
+
+### Typical Usage
+
+- 1.  Initialize
+- npm init
+- 2. install package
+  - npm install <`package-name`>
