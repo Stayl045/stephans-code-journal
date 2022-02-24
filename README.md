@@ -859,3 +859,8 @@ Attaching triggers to any DOM element which triggers the function
    @tailwind components;
    @tailwind utilities;
 4. Use `npx tailwindcss init --full` instead of whats on the tailwind
+5. in the terminal: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch
+
+6. In the `package.json` in the `scripts` add `buid: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`,
+
+## February 24th Notes
