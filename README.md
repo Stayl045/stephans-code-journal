@@ -852,15 +852,16 @@ Attaching triggers to any DOM element which triggers the function
 
 #### NPM Steps
 
-1. npm init
-2. npm install -D tailwindcss
-3. add
+1. in the ternimal, type `npm init`
+2. In the ternima again type: `npm install -D tailwindcss`
+3. add to a `tailwind.css` file or whatever name you choose:
    @tailwind base;
    @tailwind components;
    @tailwind utilities;
-4. Use `npx tailwindcss init --full` instead of whats on the tailwind
+4. Use `npx tailwindcss init --full` in the ternimal instead of what it says on the tailwind website
 5. in the terminal: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch
-
-6. In the `package.json` in the `scripts` add `buid: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`,
+6. In the `package.json` file within the `scripts` add `buid: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`,
+7. In the terminal, `npm run build`
+8. This should allow me to use `root` styles in my `index.html`
 
 ## February 24th Notes
