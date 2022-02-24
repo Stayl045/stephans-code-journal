@@ -845,3 +845,17 @@ Attaching triggers to any DOM element which triggers the function
 - npm init
 - 2. install package
   - npm install <`package-name`>
+
+## CPNT 201 - February 22nd Code Journal Notes
+
+### Tailwind
+
+#### NPM Steps
+
+1. npm init
+2. npm install -D tailwindcss
+3. add
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+4. Use `npx tailwindcss init --full` instead of whats on the tailwind
