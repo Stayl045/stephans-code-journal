@@ -862,7 +862,7 @@ Attaching triggers to any DOM element which triggers the function
 5. in the terminal: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch
 6. In the `package.json` file within the `scripts` add `build: "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",`
 7. In the terminal, `npm run build`
-8. In the ternimal, `npm run dev`
+8. In the ternimal, `npm run dev` (only run on developer with the installed framework. Ex nuxt)
 9. This should allow me to use `root` styles in my `index.html`
 
 ## February 24th Notes
