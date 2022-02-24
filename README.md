@@ -869,5 +869,5 @@ Attaching triggers to any DOM element which triggers the function
 
 ### Debugging NPM
 
-- Use `npm autit` to check if there is vulnerabilities
+- Use `npm audit` to check if there is vulnerabilities
   - research or Google the right version on how to fix some of the vulnerabilities
