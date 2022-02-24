@@ -860,8 +860,14 @@ Attaching triggers to any DOM element which triggers the function
    @tailwind utilities;
 4. Use `npx tailwindcss init --full` in the ternimal instead of what it says on the tailwind website
 5. in the terminal: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch
-6. In the `package.json` file within the `scripts` add `buid: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`,
+6. In the `package.json` file within the `scripts` add `build: "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",`
 7. In the terminal, `npm run build`
-8. This should allow me to use `root` styles in my `index.html`
+8. In the ternimal, `npm run dev`
+9. This should allow me to use `root` styles in my `index.html`
 
 ## February 24th Notes
+
+### Debugging NPM
+
+- Use `npm autit` to check if there is vulnerabilities
+  - research or Google the right version on how to fix some of the vulnerabilities
