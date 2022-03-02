@@ -853,17 +853,25 @@ Attaching triggers to any DOM element which triggers the function
 #### NPM Steps
 
 1. in the ternimal, type `npm init`
-2. In the ternima again type: `npm install -D tailwindcss`
+2. In the ternimal again type: `npm install -D tailwindcss`
 3. add to a `tailwind.css` file or whatever name you choose:
    @tailwind base;
    @tailwind components;
    @tailwind utilities;
 4. Use `npx tailwindcss init --full` in the ternimal instead of what it says on the tailwind website
-5. in the terminal: npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch
+5. in the terminal: `npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`
 6. In the `package.json` file within the `scripts` add `build: "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",`
-7. In the terminal, `npm run build`
-8. In the ternimal, `npm run dev` (only run on developer with the installed framework. Ex nuxt)
-9. This should allow me to use `root` styles in my `index.html`
+7. Add `"*.html"` to the `tailwind.config.json`
+8. In the terminal, `npm run build`
+9. In the ternimal, `npm run dev` (only run on developer with the installed framework. Ex nuxt)
+10. This should allow me to use `root` styles in my `index.html`
+
+#### Installing Nuxt After
+
+1. npm init nuxt-app <project-name>
+2. add modules
+3. to add: ex. npm install -D @nuxt/image
+4. Add `'@nuxt/image'` to the `modules` in the `nuxt.config` folder (makesure to comment the url above where found it)
 
 ## February 24th Notes
 
@@ -871,3 +879,33 @@ Attaching triggers to any DOM element which triggers the function
 
 - Use `npm audit` to check if there is vulnerabilities
   - research or Google the right version on how to fix some of the vulnerabilities
+
+## February 24th Code Journa Notes
+
+- Its like WordPress when is manages contents
+- A headless CMS is any type of back-end content management system where the content repository “body” is separated or decoupled from the presentation layer “head.” Content that is housed in a headless CMS is delivered via APIs for seamless display across different devices.
+
+### Headless CMS
+
+- Developer driven. You organize content on a website and send it anywhere
+  - Optomize different work flows
+  - Example:
+    - Wordpress and Drupai
+
+#### Why Headless?
+
+- More flexible, secure and developer friendly
+- JAMstack allows content editors a devs to be able to use tools that work best with their workflow
+- Headless CMS allws devlopnment of content to muitiple frontends this more challanging then
+
+### JAMStack
+
+-Jamstack is an architecture designed to make the web faster, more secure, and easier to scale. It builds on many of the tools and workflows which developers love, and which bring maximum productivity.
+
+- Javascript: Language
+- API: Content Delivery
+- Markup: Content
+
+### Storyblok
+
+-
