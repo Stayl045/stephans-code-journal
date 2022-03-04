@@ -860,7 +860,7 @@ Attaching triggers to any DOM element which triggers the function
    @tailwind utilities;
 4. Use `npx tailwindcss init --full` in the ternimal instead of what it says on the tailwind website
 5. in the terminal: `npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch`
-6. In the `package.json` file within the `scripts` add `build: "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",`
+6. In the `package.json` file within the `scripts` add `"build": "npx tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",`
 7. Add `"*.html"` to the `tailwind.config.json`
 8. In the terminal, `npm run build`
 9. In the ternimal, `npm run dev` (only run on developer with the installed framework. Ex nuxt)
@@ -906,6 +906,14 @@ Attaching triggers to any DOM element which triggers the function
 - API: Content Delivery
 - Markup: Content
 
-### Storyblok
+## March 4th 200 Code Journal Notes
 
+### REst API's
+
+- **CRUD**
+  - Anything that you can do with an object
+    - R= Create
+    - R= Retrieve
+    - U= Update
+    - D= Delete
 -
