@@ -958,3 +958,59 @@ Difference between authentication and authorzition
     - In the body typically
 - Authorization (acess tokens, keys)
   - prcoess of what an application has access to
+
+## March 7th Code Journal
+
+## Fixing Security Vulnerabilities from installing modules or nuxt
+
+(re-watch 50 minutes in March 7th)
+
+1. npm audit
+2. in thepackage.json create a `"resolutions" {
+
+}`array 3. in scripts create a`"preinstall": "npx npm-force-resolutions`
+
+### Netflify Deployment
+
+-
+
+#### Storyblok with vs code
+
+1.  First `npm install @storyblok/nuxt` on the terminal
+2.  '@storyblock/nuxt/module'
+3.  Make sure `@nuxt/composition-api` is installed
+4.  add to `build modules` under `nuxt.config.js` file add
+    buildModules: [
+    '@nuxtjs/composition-api/module',
+    [
+    '@storyblok/nuxt/module',
+    {
+    accessToken: process.env.STORYBLOK_API_KEY,
+    bridge: true,
+    apiOptions: {},
+    useApiClient: true,
+    }
+    ],
+    'nuxt-webpack-optimisations'
+    ],
+    ],
+5.  On the settings of your `space` changed the url to `http://localhost:3000`
+
+6.  Use `npm run dev` to text if its working on storyblok
+
+#### Then:
+
+1. Copy api key from `preview` storyblok api into `.env` that I created
+   2 STORYBLOK_API_KEY=(KEY GOES HERE)
+2. in `config` change relative path to `/` on storyblok
+
+#### After that: Deploying on Netlify
+
+1. Choose the repo you wants rather then using a template
+2. `npm run generate` in the terminal on VSCode
+
+#### Get storyblock public api on netlify
+
+1. in `environmental variables` folder on netlify in the settings and click `edit variables`
+2. in `key` add STORYBLOK_API_KEY
+3. Add the public key from Storyblok

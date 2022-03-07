@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@storyblok/nuxt": "^3.0.2"
+  }
+}
