@@ -913,7 +913,48 @@ Attaching triggers to any DOM element which triggers the function
 - **CRUD**
   - Anything that you can do with an object
     - R= Create
-    - R= Retrieve
+    - R= Retrieve/read
     - U= Update
     - D= Delete
--
+- Http Methods
+  - Get
+  - Post
+  - Put
+  - Delete
+
+### Accessing Data
+
+- **HTTP Request**
+  - A request for a resource from the browser to a server
+- **HTTP Response**
+  - A response from a server the a browser containing either a resource or the result of a operation
+
+#### Http Terminiology
+
+- Resource
+  - A target request, such as html. json data, and
+- Methods
+  -A CRUD operation performed on a resrouce
+  - POST (create)
+  - GET (read)
+  - PUT (update)
+  - DELETE (delete)
+- Example
+  1. Browser makes a GET request for a url
+  2. Server recieves a request and finds the resource such as a file, image, or data
+  3. the server sends the resource bak as a response
+  4. The browser recieves the response and might:
+  - Display a page/image
+  - load JSON data with JS
+
+### REST API's
+
+REspresentation state transfer
+
+Difference between authentication and authorzition
+
+- Authentication (tokens)
+  - Processes of veryifying a use
+    - In the body typically
+- Authorization (acess tokens, keys)
+  - prcoess of what an application has access to
