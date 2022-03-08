@@ -1014,3 +1014,16 @@ Difference between authentication and authorzition
 1. in `environmental variables` folder on netlify in the settings and click `edit variables`
 2. in `key` add STORYBLOK_API_KEY
 3. Add the public key from Storyblok
+4. Use `npm run generate` rather then `npm run dev`. This is because `dev` is a development server.
+
+## March 8th Notes
+
+### Stroyblok nuxt achievement
+
+#### Creating 3 components
+
+-
+
+#### Mustache Syntax
+
+#### Naming Conventions
