@@ -1016,14 +1016,125 @@ Difference between authentication and authorzition
 3. Add the public key from Storyblok
 4. Use `npm run generate` rather then `npm run dev`. This is because `dev` is a development server.
 
+---
+
 ## March 8th Notes
 
-### Stroyblok nuxt achievement
+### Stroyblok Nuxt Achievement
 
-#### Creating 3 components
+#### Creating 3 Components on Storyblok
 
+##### Steps on Storyblok Components
+
+1. create a new space (can't use demo content) from scratch
+
+- Name it whatever you want
+
+2. Look at a website and look at what I might need (nav, hero, card, footer for example)
+
+- Take time to plan out a project
+  - **UI Components**
+    - Navigation (one)
+    - Home Page (hero(once))
+    - Page header (same design, different content)
+    - Page header Post information
+    - Post ext content
+    - post image collage
+    - Post image
+    - Code Block
+    - Post section titles
+    - Links (custom styles)
+    - Post Tag List
+
+3. Go into components
+
+- Delete default components
+
+4. In components click new and write a `navigation` component(make nestable)
+
+- Change display name
+
+5. In schema
+
+- Create `nav_items` schema (block
+- nava (site wite naviagtion in description)
+- Add blocks with a maximum of 5
+
+5. In `nav_items` component
+
+- Create text
+- config name change display name
+
+6. Click new and write `site_header`
+7. Create a group called Site UI (do this first)
+8. Create another group called `blog posts
+9. In `site_header` gve it a name
+
+- In schema create a site_logo
+- Create a `nav_bar`
+  - Both can be blocks to insert content
+
+10. In new create `logo_link`
+
+- create a schema within called `logo` with `asset` for images
+  - Add a description of what you are going to to
+- create another schema within named `text`with text with another description
+  - Also change the display name
+- Create another schema named `link` with the type of link
+
+11. `site_header` can take its components wishlist
+12. after added info to vue
+
+- in setting of space change url to localhost:3000
+- in config in real path add `/` there
+
+#### Creating 3 components vue (VSCode)
+
+##### Steps on Vue for Components
+
+1. set up tailwind
+2. go into VSVode and go into components
+3. Remmeber to use `<nuxt-link="to">` to link to another vue
+4. And add a file name `TheHeader.vue` in the components folder
+5. Create another file name `TheNavBar.vue` in the components folder
+<!-- 5. Create another file name `TheNavBarItem.vue` -->
+6. create another file named `TheLogo.vue`
+7. in the `TheHeader.vue`
+
+- Add template tag
+- Add div tag
+- in the div add <TheLog / >
+
+8. In `TheLogo.vue` add another templage tag - Add image tag - Use span tag within the template - In there text `w/logo`
+   = <nuxt-link to="/"></nuxt-link>
+   - In the `TheNavBar.vue` add another template
+
+- within add nav tag
+  - within that add ul tag
+    - Add Li and with nuxtLink tag and add `to="articles"`
+- in the scripts tag at `setup` (<script setup>)
+
+10. IN THE PAGES FOLFER IN THE INDEX.VUE ADD `TheHeader /`
+11. create anotehr folder called `layout`
+
+- in the create a file named `default.vue`
+
+  - Add a template tag in teh div add <TheHeader>
+    and a h1 for home page
+  - add <nuxt /> in there
+
+- **Components go inside the components folder**
+- PascaleCase (this is a vue thing) inside the components folder
+  - ts so custom components stand out clearly
+- Anything you look like go into the template tag
+  - Only one root component can be in template tag
+- **In script tag (Oranize logic)**
+  - import of components
+    Logic goes into script tag
 -
 
 #### Mustache Syntax
 
 #### Naming Conventions
+
+### Storyblok Assignment 2
