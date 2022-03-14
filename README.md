@@ -1093,13 +1093,14 @@ Difference between authentication and authorzition
 ##### Steps on Vue for Components
 
 1. set up tailwind
-2. go into VSVode and go into components
-3. Remmeber to use `<nuxt-link="to">` to link to another vue
-4. And add a file name `TheHeader.vue` in the components folder
-5. Create another file name `TheNavBar.vue` in the components folder
+2. Donwload `npm i`
+3. go into VSVode and go into components
+4. Remmeber to use `<nuxt-link="to">` to link to another vue
+5. And add a file name `TheHeader.vue` in the components folder
+6. Create another file name `TheNavBar.vue` in the components folder
 <!-- 5. Create another file name `TheNavBarItem.vue` -->
-6. create another file named `TheLogo.vue`
-7. in the `TheHeader.vue`
+7. create another file named `TheLogo.vue`
+8. in the `TheHeader.vue`
 
 - Add template tag
 - Add div tag
@@ -1123,6 +1124,8 @@ Difference between authentication and authorzition
     and a h1 for home page
   - add <nuxt /> in there
 
+---
+
 - **Components go inside the components folder**
 - PascaleCase (this is a vue thing) inside the components folder
   - ts so custom components stand out clearly
@@ -1133,8 +1136,72 @@ Difference between authentication and authorzition
     Logic goes into script tag
 -
 
-#### Mustache Syntax
+## March 9th Code Journal Notes
 
-#### Naming Conventions
+### Using Figma
 
-### Storyblok Assignment 2
+- place image in frame, lock image in frame reduce opacity se you easily see what im drawing. Locking is key so you dont click it by accident
+- move you anchor 1/3 the way when tracing an image
+
+## March 10th Notes
+
+### In line SVGs (Scalable Vector Graphics)
+
+- <img src="no-bugs.svg"> or background-img: url(no-bugs.svg)
+  img {
+  display: block;
+  width: 50vmin
+  }
+
+- Adantages o
+  - No need to worry about SVG code; the browser will treat it like a raster image
+    Image wil be sharp
+- Inline Svg
+
+  -
+
+- Advantages of inline svgs
+  - Can be styles and animated with CSS
+
+### Tips and Tricks
+
+- Width and Height
+
+  - WHen in doubt, removie the width and height to make more responsive
+
+- XMLNS Attribute
+  - Is not needed for inline SVGs but is required for SVGs referenced as images
+  - When in doubt, inculde this attribute in case
+- Version 1.1 should alwaus be removed
+
+### Exporting SVGs
+
+- Every vector application is different
+- For inline SVgs, you generally want to flatten Pathfinder effects before export
+- If you want \
+
+### To export from figma
+
+- select whole frame
+- flatten to whole image
+- export as an SVG
+- Present in an html document
+
+## March 14th Code Journal
+
+### Figma Notes
+
+- To prototype, copy the page and make varations to it. That links to the homepage
+- Group items on sidebar to clean up and navigate lie the website layout
+- Use "place image" for figma to get more of a clean design
+- Layout grids
+  - On right panel that says "layoutgrid" to access this, select the frame.
+  - 12 column grid is good for desktop grid
+  - select columns rather then the default grid
+  - gutters
+    - gutters
+      - Thickness of the grid columns
+    - Want some white space around the edges
+      - 36 is good
+
+### Protoype on figma
