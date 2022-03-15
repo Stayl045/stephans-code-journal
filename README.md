@@ -1204,4 +1204,25 @@ Difference between authentication and authorzition
     - Want some white space around the edges
       - 36 is good
 
-### Protoype on figma
+### Prototype on figma
+
+- click on what you want to prototype drag to other page,click navigagte to ...and animation
+
+## March 15th Server-side JavaScript (Node) Code Journal
+
+### JS Review
+
+- Array
+  - const heroes = ['Ironman', 'Black Widow', 'Star Lord']
+    - heroes
+    - heroes[2]
+    - heroes[3]
+  - **for loop**
+    - for(let = 0; i < heroes.length; i++) {
+      console.log(heroes[i])
+      }
+- Fat arrow
+  - heroes.forEach(hero) => console.log(hero))
+  - function listHerores(arr) {
+    console.log(arr.forEach(x) => console.log(x))
+    }
