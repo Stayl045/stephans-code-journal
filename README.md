@@ -1226,3 +1226,63 @@ Difference between authentication and authorzition
   - function listHerores(arr) {
     console.log(arr.forEach(x) => console.log(x))
     }
+  - Jess said "You can think of the array of objects like a house, you need your api key to get into the house, you need the door 'key' inside the key: value pair to access the value"
+
+### Node Global Objects
+
+- A number of default objects and properties come with the Node environment.
+
+#### Terminology
+
+- \_\_filename : The absolute file name of the current module.
+
+- \_\_dirname : The directory of the current module.
+
+- process Global Object : A global object provides various information sets about the runtime of a program.
+
+- process.argv : An array containing the command-line arguments passed when the Node.js process was launched.
+
+- this : The infamous this keyword returns an empty object by default.
+
+- global : The Node global object replaces the window object in browsers.
+
+---
+
+## March 16th Code Journal Notes
+
+### JS Review
+
+- for (let i= 0; i < 5; i++>){
+  console.log('\*')
+  }
+
+- Example from [w3schools](https://www.w3schools.com/js/js_loop_for.asp)
+
+  - From the example above, you can read:
+  - Statement 1 sets a variable before the loop starts (let i = 0).
+
+  - Statement 2 defines the condition for the loop to run (i must be less than 5).
+
+  - Statement 3 increases a value (i++) each time the code block in the loop has been executed.
+
+#### Nesting For Loops
+
+- **Example:**
+  - for (let i = 0; 1 < 4; i++) {
+    for (let j = 0; j < 4; j++) {
+    stry += '\*';
+    }
+    console.log(i)
+    }
+
+#### How to import files from the outside
+
+- We use `argv`
+  - Example:
+    - const { argv } = required('process');
+      const args = process.argv.slice(2);
+
+### Intro to Vue.js (Fontend Framework)
+
+- Rehydrate
+  - helps provide a dynamic experience on the client side
