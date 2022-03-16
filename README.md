@@ -1282,7 +1282,32 @@ Difference between authentication and authorzition
     - const { argv } = required('process');
       const args = process.argv.slice(2);
 
+#### Plan to re-fresh my JS skills
+
+- I am findings as we are doing the more JS lessons that I am forgetting a lot of the fundamental components of js
+  - As a result, I think I am going to re-take the JS course from CodeAcademy
+    1. I start with the basics
+    2. Then focus on `if/else statements`
+    3. The `forloops`
+    4. lasty, I will attempt to a refresh on `async`
+
 ### Intro to Vue.js (Fontend Framework)
 
-- Rehydrate
+- Known as the `progressive framework`
+
+- **Rehydrate**
   - helps provide a dynamic experience on the client side
+- Get familiar with the terms SSR, SPA and SSG
+
+- A lot easier to use as we dont really have to use `queryselector` for example.
+
+- Vue Example from `vuejs.org`
+  - in `<script>` tag
+    - const myShit = {
+      name: 'Stephan',
+      lastName: 'Taylor',
+      age: '32'
+  - Then in `<template>` tag
+    - <p>
+      My name is {{ myShit.name }} I am {{  myShit.age }} years old. I am a very old disgusting man.
+      </p>
