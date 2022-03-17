@@ -1382,6 +1382,13 @@ Difference between authentication and authorzition
 
 ### Vue Cli
 
+- Install using `nnpm install -g @vue/cli`
+- Can use vue --help
+- to run project ui use `vue ui`
+- to run use `npm run serve`
+- In the project ui, click tasks, click run task, then click open app
+  - This will allow me to see changes that I made in the local
+
 ### Vue Installation Proble
 
 - I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli`
