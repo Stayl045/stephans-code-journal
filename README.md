@@ -1371,3 +1371,18 @@ Difference between authentication and authorzition
 - `const taskList = required('./tasklist');` from the file named `taskList.js`
   - `const tasks = taskList.tasks`
 - move into the file and the exports in particular
+
+#### Exporting
+
+- import { tasks } from './taskList.mjs'
+
+- export const tasks = [
+  // array here
+  ]
+
+### Vue Cli
+
+### Vue Installation Proble
+
+- I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli`
+  - This fixed this issue
