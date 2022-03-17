@@ -1293,7 +1293,11 @@ Difference between authentication and authorzition
 
 ### Intro to Vue.js (Fontend Framework)
 
+- can use `options api` or `composition api`
+
 - Known as the `progressive framework`
+
+- Look into the built in `directives` on [vuejs](https://vue.js.org/)
 
 - **Rehydrate**
   - helps provide a dynamic experience on the client side
@@ -1311,3 +1315,30 @@ Difference between authentication and authorzition
     - <p>
       My name is {{ myShit.name }} I am {{  myShit.age }} years old. I am a very old disgusting man.
       </p>
+
+#### v-text
+
+- can be used the same way as `innerText/html`
+  - `Moustache Syntax` seems like the better way to go
+
+#### v-bind
+
+- most useful
+- Render attributes with `v-bind`
+- Spifiically for binding attributes and props into your html
+
+  - Useful for `img` tags
+
+- Can be used as shorthand
+
+#### v-for
+
+- [vuejs](https://www.geeksforgeeks.org/v-for-directive-in-vue-js/?ref=gcse)
+
+  - "v-for directive is a Vue.js directive used to loop over a data usually an array or object. First, we will create a div element with id as app and let’s apply the v-for directive to an element with data. Now we will create this data by initializing a Vue instance with the data attribute containing the value."
+
+- Make sure to give a `v-for` a `:key="item.id"` to remove errors
+
+#### v-slot
+
+- another thing I need to play around with
