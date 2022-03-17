@@ -1342,3 +1342,9 @@ Difference between authentication and authorzition
 #### v-slot
 
 - another thing I need to play around with
+
+---
+
+## March 17th Code Journal Notes
+
+- Test
