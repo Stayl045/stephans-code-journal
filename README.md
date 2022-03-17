@@ -1347,4 +1347,20 @@ Difference between authentication and authorzition
 
 ## March 17th Code Journal Notes
 
-- Test
+### Refresh of JS Nested Looping
+
+- Again, today I really need to watch some videos and tutorials on js for loops/nested as I am still struggling with in
+
+  - In my previous journal entry, I was supposed to do it on the 16th, but my new laptop setup was problamatic.
+
+- `for (let i = 0; i < 4; i+ +) { for (let j = 0; j < 4; j++) { str += '*'; } str += '\n' }`for example.
+- Make an empty string
+
+- For each Array Method
+  - Loop through things that doesn't return a value
+  - const arr = [
+    'one', 'two',
+    'three',
+    ]
+    arr.foreach((item) => console.log(item));
+-
