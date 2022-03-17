@@ -1363,4 +1363,11 @@ Difference between authentication and authorzition
     'three',
     ]
     arr.foreach((item) => console.log(item));
--
+
+### Importing JS files and Modules
+
+#### Importing
+
+- `const taskList = required('./tasklist');` from the file named `taskList.js`
+  - `const tasks = taskList.tasks`
+- move into the file and the exports in particular
