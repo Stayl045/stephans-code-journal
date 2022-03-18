@@ -1380,16 +1380,20 @@ Difference between authentication and authorzition
   // array here
   ]
 
-### Vue Cli
+### Vue Cli Installation Process
 
 1. Install using `nnpm install -g @vue/cli`
 2. Can use vue --help
 3. to run project ui use `vue ui`
 4. to run use `npm run serve`
+
+- Make sure i'm in the right folder
+
 5. In the project ui, click tasks, click run task, then click open app
 6. This will allow me to see changes that I made in the local
+7. src in world files and public is for assets and extra stuff
 
-### Vue Installation Proble
+### Vue Installation Problem
 
 - I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli`
   - This fixed this issue
