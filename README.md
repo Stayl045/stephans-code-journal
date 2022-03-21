@@ -1134,7 +1134,8 @@ Difference between authentication and authorzition
 - **In script tag (Oranize logic)**
   - import of components
     Logic goes into script tag
--
+
+---
 
 ## March 9th Code Journal Notes
 
@@ -1142,6 +1143,8 @@ Difference between authentication and authorzition
 
 - place image in frame, lock image in frame reduce opacity se you easily see what im drawing. Locking is key so you dont click it by accident
 - move you anchor 1/3 the way when tracing an image
+
+---
 
 ## March 10th Notes
 
@@ -1395,5 +1398,6 @@ Difference between authentication and authorzition
 
 ### Vue Installation Problem
 
-- I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli`
+- I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli` to fix this issue.
+  - ![Error](https://github.com/Stayl045/stephans-code-journal/blob/70612baf82e03a33093a495f4dcd1f2085b4bacd/code-error.png)
   - This fixed this issue
