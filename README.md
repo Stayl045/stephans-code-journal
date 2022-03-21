@@ -1401,3 +1401,23 @@ Difference between authentication and authorzition
 - I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli` to fix this issue.
   - ![Error](https://github.com/Stayl045/stephans-code-journal/blob/70612baf82e03a33093a495f4dcd1f2085b4bacd/code-error.png)
   - This fixed this issue
+
+## March 21st Code Journal Notes
+
+### JS Morning Review
+
+#### .map()
+
+- Avoid Mutating Data
+  - To preserve Data interegirty and avoid side effects
+- Anonymous function
+  - Doesn't have a name
+
+### Props
+
+- < script setup>
+  const title = 'Props Day';
+
+  < script>
+
+- For achievement 1, use mouastache syntax
