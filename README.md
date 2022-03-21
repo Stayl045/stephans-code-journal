@@ -1384,8 +1384,8 @@ Difference between authentication and authorzition
 
 1. Install using `nnpm install -g @vue/cli`
 2. Can use vue --help
-3. to run project ui use `vue ui`
-4. to run use `npm run serve`
+3. To run project ui use `vue ui`
+4. To run use `npm run serve`
 
 - Make sure i'm in the right folder
 
