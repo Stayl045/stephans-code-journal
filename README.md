@@ -1396,6 +1396,8 @@ Difference between authentication and authorzition
 6. This will allow me to see changes that I made in the local
 7. src in world files and public is for assets and extra stuff
 
+- make sure to import new components in the `scrip setup` in the `app.vue`
+
 ### Vue Installation Problem
 
 - I had issues installing `vue` giving me fatal errors evertime. Ash and Jess told me to get to the root globally and use `sudo npm i -g vue/cli` to fix this issue.
@@ -1415,9 +1417,37 @@ Difference between authentication and authorzition
 
 ### Props
 
-- < script setup>
-  const title = 'Props Day';
+- Example:
 
-  < script>
+< script setup>
+import { defineProps } from "vue";
+const props = defineProps({
+title: {
+type: String,
+default: "Default Text",
+},
+description: {
+type: String,
+default: "a simple description",
+},
+});
+< /script>
 
 - For achievement 1, use mouastache syntax
+  - padding: py-4
+  - flex
+  - flex-col
+- make sure to import new components in the `scrip setup` in the `app.vue`
+
+### Slot
+
+- Are far more flexible then props
+
+- On the spot quick changes
+
+- Allows to throw anything we like
+- `v-slot:TheHeader` or `#TheHeader` for example has to be in the `template` tag
+
+### Notes
+
+- Build lots of components and practice a lot with them. Try connecting to `props` and `slots`
