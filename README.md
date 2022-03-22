@@ -1448,6 +1448,68 @@ default: "a simple description",
 - Allows to throw anything we like
 - `v-slot:TheHeader` or `#TheHeader` for example has to be in the `template` tag
 
+### Vue Condiitionals
+
+- [vuejs](https://vuejs.org/guide/essentials/conditional.html)
+
+- Used a lot for `error` handling
+- example:
+  - < header v-if="props.title">//</template>
+    - const props = defineProps({
+      title: {
+      type: string,
+      },
+      });
+
+### Computed Properties
+
+- [Computed Properties](https://vuejs.org/guide/essentials/computed.html)
+
+- runs as a function and gets stored in the `cache`
+- the goal is to give us logic, functions and performance
+
+- Example Code:
+  - const numberArray = [1, 2, 3, 4, 5];
+    return numberArray.map((num) => num \* 5);
+
 ### Notes
 
 - Build lots of components and practice a lot with them. Try connecting to `props` and `slots`
+- Make lots of different things in `vue`
+
+## March 22nd Code Journal Notes
+
+### JS Refresh
+
+#### Reduce()
+
+- Great way of adding all the values of an array togaether
+- It can glatten arrays
+- It can also group information of array and objects
+
+- Example 1
+
+  - const arr = [1, 5, 10, 15, 22 ]
+    - arr.reduce((accumulator, current) => accumulator + current, 0) - function sum(a, b) {
+      ... return a + b
+      ... }
+
+- Example 2
+  - const groceries = [
+    {
+    product: 'Cabbage',
+    cost: 4.32,
+    type: 'vegetable'
+    },
+    {
+    product: 'Chicken',
+    cost: 8.50,
+    type: 'meat'
+    },
+    {
+    product: 'Spinach',
+    cost: 6.22,
+    type: 'vegetable'
+    }
+    ]
+  - groceries.reduce((acc, curr) => acc.cost + curr.cost, 0) (This code returns NaN)
