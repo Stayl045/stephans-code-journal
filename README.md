@@ -1490,7 +1490,8 @@ default: "a simple description",
 - Example 1
 
   - const arr = [1, 5, 10, 15, 22 ]
-    - arr.reduce((accumulator, current) => accumulator + current, 0) - function sum(a, b) {
+    - arr.reduce((accumulator, current) => accumulator + current, 0)
+    - function sum(a, b) {
       ... return a + b
       ... }
 
@@ -1512,4 +1513,41 @@ default: "a simple description",
     type: 'vegetable'
     }
     ]
-  - groceries.reduce((acc, curr) => acc.cost + curr.cost, 0) (This code returns NaN)
+  - groceries.reduce((accum, curr) => accum.cost + curr.cost, 0) (This code returns NaN)
+
+### Vue Componnts
+
+- Maintain a consistent styling for componenents
+  - Use style guides
+    - **Example 1:**
+      - `TheNavBar`, `TheNavBarItem`, `TheNavBarToggle`; Can be imported onto the main `TheHeader`.vue component
+    - **Example 2:**
+      - `BaseCard` as the main component, and `TheCardTitle`, `TheCardImage` as the nested componenents
+        - can add nested componenents into the `BaseCard` componenet
+- Can add subfoders for `layout` or `ui`
+
+### What is template refs
+
+- makes variable reactive
+
+### **Event Handling**
+
+- button @click="sum"
+- const num = ref([1,2,3,4,5]);
+  -const message = ref('This is a message');
+  -function addNumbers(arr) {
+  return arr.reduce((a,b) => a + b,0)
+  }
+
+- div button p {{ messsage }} p
+
+## March 23rd Code Journal Notes
+
+### v-on with ref
+
+- We can use the v-on directive, which we typically shorten to the @ symbol, to listen to DOM events and run some JavaScript when they're triggered. The usage would be v-on:click="handler" or with the shortcut, @click="handler".
+
+- v-on:click="functionName() " or @click="functionName()
+  variableName.value
+  .prevent
+  import { ref } from 'vue'
