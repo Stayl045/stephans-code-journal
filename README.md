@@ -1543,6 +1543,8 @@ default: "a simple description",
 
 ## March 23rd Code Journal Notes
 
+- when setting up a project set it to standard on vue in features turn off the Eslinter
+
 ### v-on with ref
 
 - We can use the v-on directive, which we typically shorten to the @ symbol, to listen to DOM events and run some JavaScript when they're triggered. The usage would be v-on:click="handler" or with the shortcut, @click="handler".
@@ -1551,3 +1553,13 @@ default: "a simple description",
   variableName.value
   .prevent
   import { ref } from 'vue'
+
+### How to create a cool color gradient
+
+1. Make text transparent
+2. background clip text
+3. on tailwind, set the direction of the gradient `bg-gradient-to-r` the `from-blue-400` to `via-emerald` then `from-green-200` for example
+
+### Importing Font-awesome icons
+
+- [fontawesome](https://fontawesome.com/docs/web/use-with/vue/)
