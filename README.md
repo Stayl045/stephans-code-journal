@@ -1583,3 +1583,9 @@ default: "a simple description",
    buildModules: [].
    modules: [],
 5. If you want to install storkblok: `npm install @storyblok/nuxt` and do the steps from the previous projects
+
+### Nuxt 2 Setup with Components
+
+- in the nuxt.config add the components that you created in the `components` tag
+
+- Adding builds like `fontawesome` put into the `nuxt.config`. Install and add it into the build modules
