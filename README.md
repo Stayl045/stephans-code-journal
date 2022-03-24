@@ -1563,3 +1563,23 @@ default: "a simple description",
 ### Importing Font-awesome icons
 
 - [fontawesome](https://fontawesome.com/docs/web/use-with/vue/)
+
+---
+
+## March 23rd Code Journal Notes
+
+### Intro to Nuxt3 setup
+
+### Steps:
+
+(Maybe use Nuxt2 for now until 3 is complete)
+
+1. `npx nuxi init nuxt3-app`
+2. Cd in the right folder
+3. `npm i` 4.`npm audit` if you want
+4. in `nuxt.congif` add in the export default define config
+   css[],
+   components: [],
+   buildModules: [].
+   modules: [],
+5. If you want to install storkblok: `npm install @storyblok/nuxt` and do the steps from the previous projects
