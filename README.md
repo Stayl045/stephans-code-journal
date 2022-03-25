@@ -1589,3 +1589,35 @@ default: "a simple description",
 - in the nuxt.config add the components that you created in the `components` tag
 
 - Adding builds like `fontawesome` put into the `nuxt.config`. Install and add it into the build modules
+
+## March 25th Code Journal Notes
+
+### JaveScript .Filter()
+
+- This method allows you to return values from an array based on specific parameters
+
+  - like the other aray methods, you give it rules to act on for each item in the array
+
+- Example 1:
+  - const arr = [1, 2, 3, 4, 5]
+    - arr.filter((i) => i <3>
+      )
+- Example 2:
+  - const onjArr = [
+    {
+    item: "a",
+    type: "str",
+    quantity: 300,
+    },
+    {
+    item: "b",
+    type: "int",
+    quantity: 150,
+    },
+    {
+    item: "c",
+    type: "str",
+    quantity: 80,
+    },
+    ];
+  - objArr.filter((i) => i.quantity > 100)
