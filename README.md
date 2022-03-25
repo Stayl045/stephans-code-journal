@@ -1600,7 +1600,7 @@ default: "a simple description",
 
 - Example 1:
   - const arr = [1, 2, 3, 4, 5]
-    - arr.filter((i) => i <3>
+    - arr.filter((i) => i < 3>
       )
 - Example 2:
   - const onjArr = [
@@ -1621,3 +1621,13 @@ default: "a simple description",
     },
     ];
   - objArr.filter((i) => i.quantity > 100)
+
+### Deploying to netflify
+
+Steps:
+
+1. Add nuxt3 project to github repo
+2. Login to netlify
+3. Deploy a new site
+4. Choose the repo you pushed
+5. Click deploy
