@@ -1631,3 +1631,40 @@ Steps:
 3. Deploy a new site
 4. Choose the repo you pushed
 5. Click deploy
+
+## March 28th Code Journal Notes
+
+### Async/Await
+
+- Example 1: without API
+  - import { ref } from 'vue'
+  - const testVar = ref();
+  - async function foo()
+    return testVar.value = await '20'
+    }
+- Example 2:
+
+  - const data ref ([])
+
+  - async function fetchData(){
+    try {
+    const response = await fetch ('') {
+    if (!response.ok) {
+    throw new Error ('${response.status}')
+    }
+    const responseData = response.json ();
+    data.value = await responseData.
+
+    } catch (err) [
+    throw new Error('This is an error: ${err}')
+    ]
+    }
+
+- Use fetch is better for inside components
+- asnyc data is better for on pages
+
+- Learn `nodejs` if I want to persue more of a JS focus
+
+### Nuxt 3 Fetching
+
+-
