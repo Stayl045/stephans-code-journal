@@ -1667,4 +1667,66 @@ Steps:
 
 ### Nuxt 3 Fetching
 
--
+- To return an object with within an object use `{{ people[1].name }}`
+
+## March 29th Code Journal Notes
+
+### Code Exmaple
+
+- in my nuxt project, create a server/api and inside add a `shows.js`
+
+  - // Example RestApi in a JS file
+
+  // import \* as url from "url";
+
+  // export default async (req, res) => {
+  // const queryObject = url.parse(req.url, true).query;
+
+  // let data = { data: [{ data: ""}] };
+
+  // const { search } = queryObject;
+
+  // if (search) {
+  // data = await $fetch(`https://api.tvmaze.com/search/shows?q=${search}`);
+  // }
+  // res.writeHead(200, { "Content-Type": "application/json" });
+  // res.write(json.stringify(data));
+  // res.end();
+  // };
+
+  // In front-end
+
+  // import { ref } from "vue";
+  // const searchString = ref("");
+  // // This is where we put our search results
+  // const foundData = ref([]);
+  // // Fetch from the tv api this is hardecoded
+  // //const { data } = await $fetch(
+  // //  `/api/tvshows/?search=${searchString.value}`, // //); // async function searchShows() { // const data = await useFetch(`/api/tvshows?search=${searchString.value}`);
+  // const json = await data.json();
+  // console.log(json);
+  // foundData.value = json;
+  // }
+  // // Fetch dynamically
+
+### `v-if` and `v-else` example
+
+- < dd v-if="def.definitions">{{ def.definition }} </ dd>
+- < dd v-else>Please verify your definition</ dd>
+
+### sort()
+
+- example
+  - const nums = [10, 2, 44, 09, 89, 120]
+  - nums.sort((a,b) => a - b)
+
+### Nuxt Router
+
+- When you create a folder inside of your pages and name it `index.vue`, that will become the root file of whatever the folder is
+
+## March 30th Code Journal Notes
+
+### Plan
+
+- I should practie on my own time with Ash's Gist to create some routing JavaScript files that route/render on the main page.
+- I should look into the various methods to pull data with APIs
