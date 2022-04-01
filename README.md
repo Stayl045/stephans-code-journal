@@ -1730,3 +1730,55 @@ Steps:
 
 - I should practie on my own time with Ash's Gist to create some routing JavaScript files that route/render on the main page.
 - I should look into the various methods to pull data with APIs
+
+### StoryBlok Help
+
+- When grabbing nested component, use `v-for` as its loops through stuff easier
+
+### Group Project Notes
+
+- Could make an advertisment website of your web development profile
+
+1. Plan the website first
+2. What is this websites objectives
+3. Who is this website for
+4. Plan content
+5. Roles of responsibility of each team member
+
+Group 3:
+
+- Stephan, Josh, and Maha
+- Can be in two sections:
+  - Planned Roles
+  - Completed Roles
+
+6. Create some ground rules for our project
+7. How we handle the passing
+8. style guide
+
+- fonts and colors
+
+9. Guidelines:
+
+- Plugins with the same rules such as eslin and prettier
+
+- Charter
+
+  - Obligations
+  - Goals
+  - Roles that we are all playing
+    - What each of use are going to do
+
+- Use hackmd
+
+### Kanban Guide
+
+#### Plan
+
+- in any github repo
+
+1. Go into projects
+2. Clcik New Project, now beta
+3. Name the project
+4. Choose template: Can be basic kanban
+5. Add columns when needed
