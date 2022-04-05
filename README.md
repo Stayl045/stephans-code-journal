@@ -1797,3 +1797,7 @@ Group 3:
 #### Github
 
 - Under settings, developer settings, then personal access tokens
+
+- submit a Readme that I did a paired coding
+- Attempt to do a pull request for another 5 (Add tailwind to make it more pleasing to look at)
+  - or a night mode library
