@@ -1782,3 +1782,18 @@ Group 3:
 3. Name the project
 4. Choose template: Can be basic kanban
 5. Add columns when needed
+
+## April 5h Notes
+
+### API Keys
+
+#### Process of creating a key
+
+1. Login to the service portal.
+2. Find/generate your API key. This is usually under Settings or similar.
+3. Copy your API key into your application.
+4. Follow the instructions provided by the service to test your API key.
+
+#### Github
+
+- Under settings, developer settings, then personal access tokens
