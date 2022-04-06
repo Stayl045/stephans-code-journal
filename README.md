@@ -1801,3 +1801,19 @@ Group 3:
 - submit a Readme that I did a paired coding
 - Attempt to do a pull request for another 5 (Add tailwind to make it more pleasing to look at)
   - or a night mode library
+
+## April 6th Notes: Agile
+
+- Easy to learn, hard to do
+- learn scrum
+
+- The agile Philosophy
+
+Referred to as "lowercase" agile: a way of dev life.
+
+    Individuals and interactions over processes and tools
+    Working software over comprehensive documentation
+    Customer collaboration over contract negotiation
+    Responding to change over following a plan
+
+See: The 12 Principles of the Agile Manifesto
